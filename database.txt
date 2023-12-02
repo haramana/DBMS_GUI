@@ -1,0 +1,19 @@
+2023-10-17 22:32:00
+1,harman,singh,operaio,2023-10-10,18,rio saliceto
+2,niccolo,martucci,operaio,2023-10-10,18,rio saliceto
+3,davide,kasaro,operaio,2023-10-10,18,rio saliceto
+4,Iacopo, Ferrari,capo reparto,2019-05-24,28,Correggio
+5,Leonardo,Malaguti,operaio,2023-10-11,19,Correggio
+2023-10-17 22:32:00
+1,harman,singh,operaio,2023-10-10,18,rio saliceto
+2,niccolo,martucci,operaio,2023-10-10,18,rio saliceto
+3,davide,kasaro,operaio,2023-10-10,18,rio saliceto
+4,Iacopo, Ferrari,capo reparto,2019-05-24,28,Correggio
+5,Leonardo,Malaguti,operaio,2023-10-11,19,Correggio
+2023-10-18 19:50:03
+1,harman,singh,operaio,2023-10-10,18,rio saliceto
+2,niccolo,martucci,operaio,2023-10-10,18,rio saliceto
+3,davide,kasaro,operaio,2023-10-10,18,rio saliceto
+4,Iacopo, Ferrari,capo reparto,2019-05-24,28,Correggio
+5,Leonardo,Malaguti,operaio,2023-10-11,19,Correggio
+19,jaa,singh,ceo,2000-12-12,16,rio
